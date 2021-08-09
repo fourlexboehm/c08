@@ -1,5 +1,5 @@
 #ifndef FT_H
-#define FT_H
+# define FT_H
 
 void	ft_putchar(char c);
 void	ft_swap(int *a, int *b);
